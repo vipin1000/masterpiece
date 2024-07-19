@@ -25,7 +25,7 @@ export default function Footer() {
 				</div>
 
 				<h1 className="text-sm">
-					&copy; 2024 Ashish Rohilla.All right reserved
+					&copy; 2024 Vipin.All right reserved
 				</h1>
 				<Link
 				href="/privacypolicy">
